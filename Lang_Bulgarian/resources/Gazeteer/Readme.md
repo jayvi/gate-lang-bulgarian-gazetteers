@@ -32,6 +32,7 @@ Lists that should be added
 Please for content for example of file content see %gate_home%\plugins\ANNIE\resources\gazetteer
 
 
+
 abbreviations.lst
 adbc.lst
 airport.lst
@@ -150,4 +151,5 @@ title_pol.lst
 tvcompany.lst
 water.lst
 year.lst
+
 
